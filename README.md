@@ -1,4 +1,4 @@
-# Do-You-Really-Need-to-Pay-2-20-Hedge-Fund-Strategy-Replication-via-Machine-Learning
+# Do You Really Need to Pay 2/20? Hedge Fund Strategy Replication via Machine Learning
 
 Master dissertation, published on SSRN https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4243861 
 
